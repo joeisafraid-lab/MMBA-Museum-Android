@@ -1,0 +1,19 @@
+THE MMBA HISTORICAL MUSEUM & EXPERIENCE
+
+RUNNING
+1. Install Python 3.10+
+2. Open a terminal in this folder
+3. Run: pip install -r requirements.txt
+4. Run: python mamba_museum.py
+
+AUDIO
+Rendered ElevenLabs narration can be added to assets/audio. Name each audio file using the corresponding exhibit image stem, for example:
+00_Museum_Entrance.mp3
+01_The_Origins.mp3
+02_The_MOLY_Standard.mp3
+...
+14_Mambanomics_Essay_Display.mp3
+
+The Play Plaque Audio button opens the matching audio file in the computer's default audio player.
+
+No internet connection is required after dependencies are installed.
